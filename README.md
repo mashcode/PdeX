@@ -3,9 +3,9 @@
 
 http://govlabacademy.org/civic-tech-for-local-legislatures-and-legislators-detail.html
 
-Govlab proposal
+##Govlab proposal
 
-Team Name/Project Name: PdeX (PDFdisrupt)
+**Team Name/Project Name:** PdeX (PDFdisrupt)
 
 Please tell us about the problem your project addresses. Why is this problem important? What are the causes of the problem you wish to tackle? (Team members can use the same response) *
 
