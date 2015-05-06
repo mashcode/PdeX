@@ -40,7 +40,7 @@ There will also be some parcers and scrapers under development
 
 TODO
 
-* dcas_spider.py links & title parcer
+* /dcas/spiders/dcas_spider.py PDF links & title parcer
 	- order list by year
 	- remove empty values
 	- create rows for 2008 & 2009 links & titles 
